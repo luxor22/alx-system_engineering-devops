@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdr -p /tmp/my_first_directory
+mkdr -p /tmp/my_first_directory/
